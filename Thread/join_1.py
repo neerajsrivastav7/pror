@@ -16,3 +16,9 @@ thread.start()
 thread.join()
 
 print("Main thread continues after worker thread has finished")
+
+'''
+Worker thread starting
+Worker thread finished
+Main thread continues after worker thread has finished
+'''
